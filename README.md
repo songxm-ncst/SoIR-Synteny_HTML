@@ -1,2 +1,2 @@
-# TSGR-Synteny_HTML
-A synteny display tool for The Solanaceae Genome Resource Database.
+# SGR-Synteny_HTML
+A synteny display tool for Solanaceae Genome Resource Database.
